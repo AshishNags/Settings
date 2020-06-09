@@ -1,0 +1,10 @@
+{
+    "voice":true,
+    "bright":25,
+    "bluetooth":[{"name":"Boat Headphone","pet":"ashi's","paired":true,"connected":true,"volume":50},
+                 {"name":"LG Headphone","pet":"nags","paired":true,"connected":false,"volume":20}
+                ],
+    "others":[{"name":"Boat Headphone","pet":"ashi's","paired":true,"connected":true,"volume":50},
+              {"name":"LG Headphone","pet":"nags","paired":true,"connected":false,"volume":20}
+            ]
+}

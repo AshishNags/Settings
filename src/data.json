@@ -1,0 +1,97 @@
+{
+  "voice": [
+    {
+      "check": true,
+      "id": 1
+    }
+  ],
+  "bright": [
+    {
+      "value": 56,
+      "id": 1
+    }
+  ],
+  "bluetooth": [
+    {
+      "name": "Boat Headphone",
+      "pet": "ashish",
+      "paired": true,
+      "connected": true,
+      "volume": 39,
+      "id": 1
+    },
+    {
+      "name": "LG Headphone",
+      "pet": "nag's",
+      "paired": true,
+      "connected": true,
+      "volume": 59,
+      "id": 2
+    },
+    {
+      "name": "JLB",
+      "pet": "j earphone",
+      "paired": true,
+      "connected": false,
+      "volume": 22.950819672131146,
+      "id": 3
+    },
+    {
+      "name": "Apple airpods",
+      "pet": "airpods",
+      "paired": true,
+      "connected": false,
+      "volume": 44.26229508196721,
+      "id": 4
+    },
+    {
+      "name": "Sony Wireless Earphones",
+      "pet": "sony",
+      "paired": true,
+      "connected": false,
+      "volume": 97.95081967213115,
+      "id": 5
+    },
+    {
+      "name": "LG1 Headphone",
+      "pet": "LG1 Headphone",
+      "paired": true,
+      "connected": false,
+      "volume": 2,
+      "id": 6
+    }
+  ],
+  "others": [
+    {
+      "name": "Boat Headphone",
+      "pet": "ashi's",
+      "paired": false,
+      "connected": false,
+      "volume": 50,
+      "id": 3
+    },
+    {
+      "name": "LG Headphone",
+      "pet": "nags",
+      "paired": false,
+      "connected": false,
+      "volume": 20,
+      "id": 4
+    },
+    {
+      "name": "LG1 Headphone",
+      "pet": "LG1 Headphone",
+      "paired": false,
+      "connected": false,
+      "volume": 2,
+      "id": 6
+    }
+  ],
+  "count": [
+    {
+      "paired": 6,
+      "connected": 2,
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "voice": [
+    {
+      "check": false,
+      "id": 1
+    }
+  ],
+  "bright": [
+    {
+      "value": 59,
+      "id": 1
+    }
+  ],
+  "bluetooth": [
+    {
+      "name": "Boat Headphone",
+      "pet": "boat",
+      "paired": true,
+      "connected": true,
+      "volume": 77,
+      "id": 1
+    },
+    {
+      "name": "LG1 Headphone",
+      "pet": "lg1",
+      "paired": true,
+      "connected": false,
+      "volume": 63,
+      "id": 6
+    },
+    {
+      "name": "Apple airpods",
+      "pet": "airpods",
+      "paired": true,
+      "connected": true,
+      "volume": 37,
+      "id": 4
+    },
+    {
+      "name": "Sony Wireless Earphones",
+      "pet": "sony",
+      "paired": true,
+      "connected": false,
+      "volume": 8,
+      "id": 5
+    },
+    {
+      "name": "System Speakers",
+      "pet": "Car speakers",
+      "paired": true,
+      "connected": false,
+      "volume": 97.95081967213115,
+      "id": 11
+    },
+    {
+      "name": " Boat Speakers",
+      "pet": "Speakers",
+      "paired": true,
+      "connected": false,
+      "volume": 97.95081967213115,
+      "id": 13
+    },
+    {
+      "name": "Boat Earphones",
+      "pet": "boat 2",
+      "paired": true,
+      "connected": false,
+      "volume": 97.95081967213115,
+      "id": 9
+    },
+    {
+      "name": "JLB",
+      "pet": "j earphone",
+      "paired": true,
+      "connected": false,
+      "volume": 22.950819672131146,
+      "id": 3
+    },
+    {
+      "name": "LG Headphone",
+      "pet": "lg",
+      "paired": true,
+      "connected": false,
+      "volume": 59,
+      "id": 2
+    }
+  ],
+  "others": [
+    {
+      "name": "Device 4",
+      "pet": "dev4",
+      "paired": false,
+      "connected": false,
+      "volume": 97.95081967213115,
+      "id": 14
+    },
+    {
+      "name": "Device 1",
+      "pet": "dev 1",
+      "paired": false,
+      "connected": false,
+      "volume": 97.95081967213115,
+      "id": 8
+    },
+    {
+      "name": "Device 2",
+      "pet": "dev2",
+      "paired": false,
+      "connected": false,
+      "volume": 44.26229508196721,
+      "id": 7
+    },
+    {
+      "name": "Device3",
+      "pet": "dev 3",
+      "paired": false,
+      "connected": false,
+      "volume": 97.95081967213115,
+      "id": 12
+    }
+  ],
+  "count": [
+    {
+      "paired": 9,
+      "connected": 2,
+      "id": 1
+    }
+  ]
+}
